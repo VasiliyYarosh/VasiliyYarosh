@@ -83,7 +83,7 @@
 
 ###
 
-<h4 align="left"><b>Frontend:</b></h4>
+<h3 align="left"><b>Frontend:</b></h3>
 <p align="left">- JavaScript, TypeScript, React, Redux, Next.js <br> - SPFX (SharePoint Framework), PnP (Patterns & Practices)<br> - Bulma, Material UI, SCSS</p>
 
 
