@@ -102,9 +102,6 @@
   <li>Git, GitHub</li>
   <li>Web part development with React for SharePoint sites</li>
 </ul>
-###
-<!-- <p align="left">- JavaScript, TypeScript, React, Redux, Next.js <br> - SPFX (SharePoint Framework), PnP (Patterns & Practices)<br> - Bulma, Material UI, SCSS</p> -->
-
 
 ###
 
