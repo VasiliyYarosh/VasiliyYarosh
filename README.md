@@ -96,7 +96,7 @@
 
 ###
 
-<h3 align="left">Education</h3>
+<h2 align="left">Education</h2>
 
 ###
 
