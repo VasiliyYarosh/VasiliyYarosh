@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vasyl and I am a full-stack developer with more than one year of practical experience with JavaScript, Typescript, React, SQL, Github, NPM, etc. <br>I would jump at any opportunity to continue growing my skillset. <br>My passion lies in engineering, and I enjoy improving everything, and as a result, that gives me profit from these improvements.</p>
+<p align="left">My name is Vasyl and I am a full-stack developer with more than two year of practical experience with JavaScript, Typescript, React, SQL, Github, NPM, etc. <br>I would jump at any opportunity to continue growing my skillset. <br>My passion lies in engineering, and I enjoy improving everything, and as a result, that gives me profit from these improvements.</p>
 
 ###
 
