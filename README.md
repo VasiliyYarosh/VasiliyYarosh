@@ -90,6 +90,18 @@
   <li>Bulma, Material UI, SCSS</li>
 </ul>
 
+<h4 align="left"><b>Backend:</b></h4>
+<ul>
+  <li>Node.js, Express</li>
+  <li>Sequelize, Prisma</li>
+  <li>PostgreSQL, SQL, MongoDB</li>
+</ul>
+
+<h4 align="left"><b>Tools & Development::/b></h4>
+<ul>
+  <li>Git, GitHub</li>
+  <li>Web part development with React for SharePoint sites</li>
+</ul>
 ###
 <!-- <p align="left">- JavaScript, TypeScript, React, Redux, Next.js <br> - SPFX (SharePoint Framework), PnP (Patterns & Practices)<br> - Bulma, Material UI, SCSS</p> -->
 
