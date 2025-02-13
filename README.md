@@ -18,12 +18,6 @@
       </a>
 ‎ ‎ // Online gadgets Store. (React, TypeScript, Redux Toolkit, i18next, Swiper, toastify-js, OpenAI API)
     </li>
-    <li>
-       <a href="https://github.com/Xilston/The-2048-game">
-          2048 
-      </a>
-      ‎ ‎ // The Game 2048 (HTML, CSS, Javascript)
-    </li>
    <li>
        <a href="#">
           Todo App 
