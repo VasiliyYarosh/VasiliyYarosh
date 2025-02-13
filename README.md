@@ -108,7 +108,7 @@
 <p align="left">
   - Email: <a href="mailto:vasilliy.yarosh@gmail.com">vasilliy.yarosh@gmail.com</a> <br> 
   - LinkedIn: <a href="https://www.linkedin.com/in/vasyl-yarosh-680975205/">LinkedIn</a>  <br> 
-  - Telegram: <a href="t.me/VanillaShade">t.me/VanillaShade</a> 
+  - Telegram: <a href="https://t.me/VanillaShade">t.me/VanillaShade</a> 
 </p>
 
 ###
