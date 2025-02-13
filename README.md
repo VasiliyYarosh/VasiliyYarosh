@@ -18,7 +18,7 @@
       </a>
 ‎ ‎ // Online gadgets Store. (React, TypeScript, Redux Toolkit, i18next, Swiper, toastify-js, OpenAI API)
     </li>
-   <li>
+<!--    <li>
        <a href="#">
           Todo App 
       </a>
@@ -29,7 +29,7 @@
         MyBike Landing page
       </a>
       ‎ ‎ //  (HTML, SASS, AOS Animations)
-    </li>
+    </li> -->
   </ul>
 </p>
 
