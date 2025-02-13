@@ -89,6 +89,8 @@
   <li>SPFX (SharePoint Framework), PnP (Patterns & Practices)</li>
   <li>Bulma, Material UI, SCSS</li>
 </ul>
+
+###
 <!-- <p align="left">- JavaScript, TypeScript, React, Redux, Next.js <br> - SPFX (SharePoint Framework), PnP (Patterns & Practices)<br> - Bulma, Material UI, SCSS</p> -->
 
 
