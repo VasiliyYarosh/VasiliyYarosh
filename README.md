@@ -83,10 +83,9 @@
 
 ###
 
-<p align="left"><b>Frontend:</b></p>
+<h4 align="left"><b>Frontend:</b></h4>
 <p align="left">- JavaScript, TypeScript, React, Redux, Next.js <br> - SPFX (SharePoint Framework), PnP (Patterns & Practices)<br> - Bulma, Material UI, SCSS</p>
-<!-- <p align="left">- JavaScript, TypeScript, React, Redux, Next.js<br> - Node.js, Express, Sequelize, Prisma, PostgreSQL, SQL, MongoDB<br> - Bulma, Material UI, SCSS<br> - Git, GitHub</p> -->
-<!-- <p align="left">- JavaScript, TypeScript, React, Redux, Next.js<br> - Node.js, Express, Sequelize, Prisma, PostgreSQL, SQL, MongoDB<br> - Bulma, Material UI, SCSS<br> - Git, GitHub</p> -->
+
 
 ###
 
